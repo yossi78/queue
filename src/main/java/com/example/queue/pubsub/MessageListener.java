@@ -1,4 +1,4 @@
-package com.example.queue;
+package com.example.queue.pubsub;
 
 import com.example.queue.model.SubscribtionImpl;
 import com.example.queue.model.ImportantMessage;
